@@ -1,1 +1,1 @@
-# cryptozombies game chapter 1-6
+# cryptozombies.io chp 1-6
