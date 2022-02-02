@@ -1,1 +1,1 @@
-# cryptozombies.io chp 1-6
+# cryptozombies.io chapter 1 to 6 
